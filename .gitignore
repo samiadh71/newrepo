@@ -1,0 +1,9 @@
+# this is a sample of .gitignore files 
+
+# ignore temp files
+
+*.tmp
+
+# IGONRE README FILES
+
+README*
